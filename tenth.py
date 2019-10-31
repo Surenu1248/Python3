@@ -53,4 +53,10 @@ print("Modulus : ", modulus(10,4))
 
 print("Exponential: ", expo(2,3))
 
+# You can directly use the operators wherever you want like follow the below code
 
+print("Addition: ", 10+5)
+
+print("Substraction: ",10-5)
+
+# Similarly it follows........
