@@ -8,3 +8,5 @@ elif b > c:
     print(b, " is Biggest number.....")
 else:
     print(c, " is Biggest number.....")
+
+# 30 is the biggest number
