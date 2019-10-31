@@ -13,3 +13,5 @@ def prime(a):
 
 
 print(prime(11))
+
+# It prints whether the given number is prime or not
